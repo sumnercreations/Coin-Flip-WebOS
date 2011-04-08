@@ -1,0 +1,9 @@
+{
+	"id": "com.sumnercreations.coinflip",
+	"version": "1.0.0",
+	"vendor": "sumnercreations",
+	"type": "web",
+	"main": "index.html",
+	"title": "Coin Flip",
+	"icon": "icon.png"
+}

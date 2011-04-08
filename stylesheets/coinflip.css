@@ -1,0 +1,25 @@
+html{
+	background-color: #C0C0C0;
+	font-family: 'Ubuntu', arial, serif;
+}
+
+#container{
+	height: 100%;
+	margin: 0px auto;
+}
+
+#content{
+	width: 200px;
+	margin: 0px auto;
+	}
+	
+#message{
+	text-align: center;
+}
+
+#coinFlipSpinner{
+	width: 32px;
+	position: absolute;
+	top: 50%;
+	left: 45%;
+}
